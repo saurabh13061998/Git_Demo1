@@ -1,7 +1,6 @@
 package com.cjc.demo;
 
-public class AA {
-	
+public class BB {
 	
 	
 	public void m1()
@@ -31,11 +30,12 @@ public class AA {
 
 public static void main(String[] args) {
 		
-		AA aa=new AA();
+		BB aa=new BB();
 		aa.m1();
 		aa.m2();
 		aa.m3();
 		aa.m4();
 		aa.m4();
 	}	
+
 }
